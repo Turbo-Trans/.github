@@ -1,4 +1,4 @@
-# Lasttik
+<p><a href="https://lasttik.com/"><img src="https://raw.githubusercontent.com/Turbo-Trans/.github/main/profile/assets/lasttik-logo.png" alt="Lasttik" width="360"></a></p>
 ### Daha verimli ve sürdürülebilir lojistik
 
 Lasttik; sipariş, ürün, depo ve sevkiyat süreçlerini tek platformda buluşturan bir lojistik yönetim ve optimizasyon çözümüdür.

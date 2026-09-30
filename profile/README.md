@@ -21,6 +21,14 @@ Lojistik operasyonlarını daha kolay yönetilebilir, ölçülebilir ve verimli 
 
 Biz, Lasttik'i geliştiren ekibiz. Lojistikte günlük işlerin daha düzenli ilerlemesi için yazılım geliştiriyoruz. Çalışmalarımızın merkezinde, operasyon ekiplerinin ihtiyaçlarını anlaşılır ve kullanışlı çözümlere dönüştürmek var.
 
+## Ekibimiz
+
+- **[Esat Küçe](https://github.com/esatkee)**
+- **[Ritvan Angous](https://github.com/rid-ang)**
+- **[Muhammed Sait Yıldırım](https://github.com/Zarner1)**
+
 ## Daha fazla bilgi
+
+Projemiz hakkında detaylı bilgi almak, iş birliği fırsatlarını değerlendirmek veya sorularınızı paylaşmak için ekibimizle GitHub profilleri üzerinden bağlantı kurabilirsiniz. Çözümlerimizi daha yakından tanımak için web sitemizi ziyaret edebilirsiniz.
 
 🌐 [Web sitemizi ziyaret edin](https://lasttik.com/)
